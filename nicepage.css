@@ -37227,7 +37227,8 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-position-3 {
-  min-height: 231px;
+  min-height: 210px;
+  height: auto;
   width: 324px;
   margin: 0;
 }
@@ -37238,33 +37239,55 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-text-6 {
   background-image: none;
+  font-size: 0.875rem;
 }
 
 .u-footer .u-group-elements-1 {
-  width: 146px;
-  min-height: 26px;
-  margin: 41px auto 0 0;
+  width: 149px;
+  min-height: 22px;
+  margin: -5px auto 0 0;
+}
+
+.u-footer .u-text-7 {
+  font-size: 0.875rem;
+  margin: 0 0 0 23px;
 }
 
 .u-footer .u-icon-1 {
   width: 16px;
   height: 16px;
-  margin: 5px auto 0 0;
+  margin: -19px auto 0 0;
   padding: 0;
 }
 
-.u-footer .u-text-7 {
-  margin: -20px 0 0 auto;
+.u-footer .u-group-elements-2 {
+  width: 137px;
+  min-height: 22px;
+  height: auto;
+  margin: 3px auto 0 0;
 }
 
 .u-footer .u-text-8 {
-  margin: 5px 75px 0 25px;
+  font-size: 0.875rem;
+  margin: 0 0 0 23px;
 }
 
 .u-footer .u-icon-2 {
   width: 16px;
   height: 16px;
-  margin: -20px auto 0 0;
+  margin: -18px auto 0 0;
+  padding: 0;
+}
+
+.u-footer .u-text-9 {
+  font-size: 0.875rem;
+  margin: 3px 90px 0 30px;
+}
+
+.u-footer .u-icon-3 {
+  width: 16px;
+  height: 16px;
+  margin: -19px auto 0 0;
   padding: 0;
 }
 
@@ -37274,7 +37297,7 @@ a.u-link.u-text-hover-grey-90:hover {
   margin-bottom: 0;
 }
 
-.u-footer .u-text-9 {
+.u-footer .u-text-10 {
   font-size: 0.6875rem;
   margin: 13px auto 60px 0;
 }
@@ -37315,32 +37338,32 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-position-3 {
-    min-height: 272px;
-    height: auto;
-    width: 300px;
     margin-top: 11px;
+    margin-right: 14px;
+    width: 286px;
   }
 
   .u-footer .u-group-elements-1 {
+    width: 149px;
     height: auto;
+    margin-top: 8px;
   }
 
-  .u-footer .u-text-8 {
+  .u-footer .u-group-elements-2 {
+    width: 137px;
+  }
+
+  .u-footer .u-text-9 {
     width: auto;
-    margin-top: 0;
+    margin-right: 58px;
     margin-left: 24px;
-    margin-right: 24px;
-  }
-
-  .u-footer .u-icon-2 {
-    margin-top: -18px;
   }
 
   .u-footer .u-line-1 {
     height: 1px;
   }
 
-  .u-footer .u-text-9 {
+  .u-footer .u-text-10 {
     margin-bottom: 41px;
   }
 }
@@ -37372,25 +37395,28 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-position-3 {
-    min-height: 238px;
-    margin-right: 392px;
-    margin-left: 28px;
-    width: 286px;
+    margin-right: 404px;
+    margin-left: 30px;
   }
 
   .u-footer .u-group-elements-1 {
-    margin-left: 28px;
+    margin-top: 11px;
+    margin-left: 30px;
   }
 
-  .u-footer .u-text-8 {
-    margin-top: -4px;
-    margin-right: 391px;
-    margin-left: 57px;
+  .u-footer .u-group-elements-2 {
+    margin-top: 0;
+    margin-left: 30px;
   }
 
-  .u-footer .u-icon-2 {
-    margin-top: -20px;
-    margin-left: 28px;
+  .u-footer .u-text-9 {
+    margin-top: 5px;
+    margin-right: 448px;
+    margin-left: 54px;
+  }
+
+  .u-footer .u-icon-3 {
+    margin-left: 30px;
   }
 }
 @media (max-width: 767px) {
@@ -37422,24 +37448,28 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-position-3 {
-    min-height: 231px;
-    margin-top: 11px;
-    margin-right: 242px;
-    margin-left: 0;
+    margin-top: 10px;
+    margin-right: 244px;
+    margin-left: 10px;
   }
 
   .u-footer .u-group-elements-1 {
-    margin-top: 12px;
-    margin-left: 0;
+    margin-top: 5px;
+    margin-left: 10px;
   }
 
-  .u-footer .u-text-8 {
-    margin-right: 270px;
-    margin-left: 28px;
+  .u-footer .u-group-elements-2 {
+    margin-top: 7px;
+    margin-left: 10px;
   }
 
-  .u-footer .u-icon-2 {
-    margin-left: 0;
+  .u-footer .u-text-9 {
+    margin-right: 288px;
+    margin-left: 34px;
+  }
+
+  .u-footer .u-icon-3 {
+    margin-left: 10px;
   }
 }
 @media (max-width: 575px) {
@@ -37477,22 +37507,25 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-position-3 {
-    min-height: 282px;
-    margin-top: 23px;
-    margin-right: 85px;
+    margin-left: 0;
+    margin-right: 54px;
   }
 
   .u-footer .u-group-elements-1 {
-    margin-top: 1px;
+    margin-left: 0;
   }
 
-  .u-footer .u-text-8 {
-    margin-top: 4px;
-    margin-right: 78px;
+  .u-footer .u-group-elements-2 {
+    margin-left: 0;
   }
 
-  .u-footer .u-icon-2 {
-    margin-left: 2px;
+  .u-footer .u-text-9 {
+    margin-right: 98px;
+    margin-left: 24px;
+  }
+
+  .u-footer .u-icon-3 {
+    margin-left: 0;
   }
 }
 
