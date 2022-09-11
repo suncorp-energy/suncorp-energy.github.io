@@ -1,10 +1,10 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/pexels-gustavo-fring-4254165.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/pexels-gustavo-fring-4254165.jpg");
   background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 1200px;
+  min-height: 100vh;
 }
 
 .u-section-1 .u-group-1 {
@@ -39,10 +39,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 989px;
-  }
-
   .u-section-1 .u-text-1 {
     margin-left: 16px;
     margin-right: 16px;
@@ -55,10 +51,6 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 758px;
-  }
-
   .u-section-1 .u-group-1 {
     width: 660px;
     margin-top: 200px;
@@ -81,10 +73,6 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 905px;
-  }
-
   .u-section-1 .u-group-1 {
     width: 520px;
     min-height: 641px;
@@ -102,13 +90,12 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 1147px;
-  }
-
   .u-section-1 .u-group-1 {
-    width: 352px;
-    margin-top: 60px;
+    min-height: 769px;
+    margin-top: 146px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-1 .u-text-1 {
