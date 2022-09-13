@@ -37121,27 +37121,34 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 767px) {
   .u-header .u-sheet-1 {
-    min-height: 83px;
+    min-height: 84px;
   }
 
   .u-header .u-image-1 {
     width: 214px;
     height: 51px;
+    margin-top: 1px;
   }
 
   .u-header .u-menu-1 {
-    margin-top: 20px;
+    margin-top: -41px;
+    margin-bottom: 25px;
   }
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 74px;
+    min-height: 93px;
   }
 
   .u-header .u-image-1 {
     width: 170px;
     height: 40px;
-    margin-top: 20px;
+    margin-top: 13px;
+  }
+
+  .u-header .u-menu-1 {
+    margin-top: -36px;
+    margin-bottom: 27px;
   }
 }
  .u-footer {
