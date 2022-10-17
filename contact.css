@@ -18,19 +18,20 @@
 }
 
 .u-section-1 .u-container-layout-1 {
-  padding: 29px 30px;
+  padding: 28px 30px;
 }
 
 .u-section-1 .u-text-1 {
   font-size: 3.75rem;
   width: 236px;
+  font-weight: 700;
   margin: 0 auto;
 }
 
 .u-section-1 .u-line-1 {
   width: 106px;
   transform-origin: left center 0px;
-  margin: 21px auto 0;
+  margin: 22px auto 0;
 }
 
 .u-section-1 .u-text-2 {
