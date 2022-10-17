@@ -71,35 +71,23 @@
   height: 38px;
   width: 38px;
   background-image: none;
+  color: rgb(255, 255, 255) !important;
   margin: 15px auto 0 0;
 }
 
 .u-section-1 .u-text-5 {
   font-weight: 700;
-  margin: 10px 292px 0 0;
+  margin: 10px 191px 0 0;
 }
 
 .u-section-1 .u-icon-3 {
   height: 38px;
   width: 38px;
   background-image: none;
-  color: rgb(255, 255, 255) !important;
-  margin: 21px auto 0 0;
-}
-
-.u-section-1 .u-text-6 {
-  font-weight: 700;
-  margin: 10px 191px 0 0;
-}
-
-.u-section-1 .u-icon-4 {
-  height: 38px;
-  width: 38px;
-  background-image: none;
   margin: 15px auto 0 0;
 }
 
-.u-section-1 .u-text-7 {
+.u-section-1 .u-text-6 {
   font-weight: 700;
   margin: 10px 166px 0 0;
 }
@@ -162,14 +150,10 @@
   }
 
   .u-section-1 .u-text-5 {
-    margin-right: 255px;
-  }
-
-  .u-section-1 .u-text-6 {
     margin-right: 154px;
   }
 
-  .u-section-1 .u-text-7 {
+  .u-section-1 .u-text-6 {
     margin-right: 129px;
   }
 
@@ -196,14 +180,10 @@
   }
 
   .u-section-1 .u-text-5 {
-    margin-right: 145px;
-  }
-
-  .u-section-1 .u-text-6 {
     margin-right: 44px;
   }
 
-  .u-section-1 .u-text-7 {
+  .u-section-1 .u-text-6 {
     margin-right: 19px;
   }
 
@@ -248,26 +228,14 @@
   }
 
   .u-section-1 .u-text-5 {
-    width: 300px;
-    margin-top: 15px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-top: 11px;
   }
 
   .u-section-1 .u-icon-3 {
-    margin-top: 31px;
     margin-left: auto;
   }
 
   .u-section-1 .u-text-6 {
-    margin-top: 11px;
-  }
-
-  .u-section-1 .u-icon-4 {
-    margin-left: auto;
-  }
-
-  .u-section-1 .u-text-7 {
     width: auto;
     margin-right: 103px;
     margin-left: 132px;
@@ -342,25 +310,14 @@
 
   .u-section-1 .u-text-5 {
     width: auto;
-    margin-top: 11px;
-    margin-right: 60px;
-    margin-left: 45px;
-  }
-
-  .u-section-1 .u-icon-3 {
-    margin-top: 7px;
-  }
-
-  .u-section-1 .u-text-6 {
-    width: auto;
     margin-right: 0;
   }
 
-  .u-section-1 .u-icon-4 {
+  .u-section-1 .u-icon-3 {
     margin-top: 18px;
   }
 
-  .u-section-1 .u-text-7 {
+  .u-section-1 .u-text-6 {
     margin-top: 11px;
     margin-left: 23px;
     margin-right: 23px;
